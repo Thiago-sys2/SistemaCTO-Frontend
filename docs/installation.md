@@ -49,7 +49,7 @@ Primeiro, clone o repositório do projeto para sua máquina local:
 
 
 ```
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Thiago-sys2/SistemaCTO-Frontend.git
 ```
 
 ### 3.1 Acessar a pasta
