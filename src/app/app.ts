@@ -1,9 +1,10 @@
 import { Component, signal } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { FormCto } from "./components/form-cto/form-cto";
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  standalone: true,
+  imports: [FormCto],
   templateUrl: './app.html',
   styleUrl: './app.scss'
 })
